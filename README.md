@@ -7,7 +7,7 @@ End-to-end test automation framework for the Employee Management System using Pl
 | Resource | Link |
 |----------|------|
 | GitHub Repository | [View Automation Source Code](https://github.com/shawnrashmi-dotcom/js-playwright-employee-automation) |
-| Live Application | [Launch Employee Management System](https://mern-employee-management-client-six.vercel.app/signin) |
+| Live Demo | [Launch Employee Management System](https://mern-employee-management-client-six.vercel.app/) |
 
 ## 🧪 Automation
 
