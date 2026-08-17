@@ -1,0 +1,94 @@
+{
+  "ValidEmployeeDetails": {
+    "employeeCode": 1064,
+    "FirstName": "shawn",
+    "LastName": "adolph",
+    "Department": "Engineering",
+    "Designation": "Quality Engineer",
+    "WorkEmail": "shawnvas@rediffmail.com",
+    "PhoneNumber": "7892705792",
+    "JoiningDate": "29-08-2026",
+    "OfficeLocation": "Bengaluru",
+    "AddressLine1": "LLEA",
+    "City": "Mangalore",
+    "State": "Karnataka",
+    "PostalCode": "575007",
+    "Country": "India",
+    "profilePicture": "fixtures/profile-image.jpg"
+  },
+  "InvalidEmployeeDetails": {
+    "employeeCode": 101,
+    "FirstName": "shawn",
+    "LastName": "adolph",
+    "Department": "Engineering",
+    "Designation": "Quality Engineer",
+    "WorkEmail": "shawnvas@rediffmail.com",
+    "JoiningDate": "29-08-2026",
+    "OfficeLocation": "Bengaluru",
+    "AddressLine1": "LLEA",
+    "City": "Mangalore",
+    "State": "Karnataka",
+    "PostalCode": "575007",
+    "Country": "India"
+  },
+  "InvalidFormEmployeeDetails": {
+    "employeeCode": "",
+    "FirstName": "shawn",
+    "LastName": "adolph",
+    "Department": "Engineering",
+    "Designation": "Quality Engineer",
+    "WorkEmail": "shawnvas@rediffmail.com",
+    "JoiningDate": "29-08-2026",
+    "OfficeLocation": "Bengaluru",
+    "AddressLine1": "LLEA",
+    "City": "Mangalore",
+    "State": "Karnataka",
+    "PostalCode": "575007",
+    "Country": "India"
+  },
+  "SearchByName": {
+    "FirstName": "arun"
+  },
+  "SearchByEmployeeCode": {
+    "employeeCode": "1031"
+  },
+  "SearchByEmail": {
+    "WorkEmail": "shawnrashmi@gmail.com"
+  },
+  "SearchByInvalidName": {
+    "FirstName": "Rohan"
+  },
+  "employeeData": {
+    "employeeCode": "1031",
+    "firstName": "shawn",
+    "lastName": "adolph",
+    "email": "shawnvas@rediffmail.com",
+    "phone": "7892705792",
+    "personalInformation": {
+      "age": "35",
+      "gender": "Male",
+      "dateOfBirth": "01/08/2026"
+    },
+    "employmentInformation": {
+      "department": "Engineering",
+      "designation": "Quality Engineer",
+      "joiningDate": "10/08/2026",
+      "officeLocation": "Bengaluru"
+    },
+    "addressInformation": {
+      "address": "LLEA",
+      "city": "Mangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "575007"
+    },
+    "skillsAndPreferences": {
+      "skills": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "preferredLanguage": "English"
+    },
+    "profilePicture": "fixtures/profile-image.jpg"
+  }
+}
